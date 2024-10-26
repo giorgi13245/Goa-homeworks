@@ -24,8 +24,7 @@ print(number==5)
 print(True or False and 5 > 3 or "name" == "name" and 123 == "123" and 5 >= 5)
 #     True or False and True or True and False and True
 #           
-#True or False and 5 > 3 or "name" == "name" and 123 =="123" and 5 >= 5  გარდაიქმნება True or False and True or True and False and TrueTrue or False and 5 > 3 or "name" == "name" and 123 == "123" and 5 >= 5 
-
+#True or False and 5 > 3 or "name" == "name" and 123 =="123" and 5 >= 5  გარდაიქმნება True or False and True or True and False and True რაც მოგვცემს True-ს
 
 
 
