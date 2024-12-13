@@ -29,3 +29,9 @@ print(numbers1[2::3])
 numberss=(input("შეიყვანე 10 რიცხვი მძიმით გამოყოფით"))
 number_list=[numberss]
 print(numberss[0:3])
+
+
+
+numbers=[2,4,6,12,45,89,100,13,45,14]
+print(numbers[:3])
+print(numbers[-1]==10)
